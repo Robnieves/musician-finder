@@ -1,0 +1,27 @@
+* {
+
+}
+
+
+header {
+  width:100%
+  height:350px;
+  background-color: #28275E;
+  color:white;
+}
+
+.btn-primary {
+  background-color: #28275E;
+}
+
+.btn-primary:hover {
+  background-color: Black;
+}
+
+.register-form {
+  margin-top: 25px;
+  padding: 25px;
+  border: .5px lightgray solid;
+  border-radius: 5px;
+  /* background-color: pink; */
+}
